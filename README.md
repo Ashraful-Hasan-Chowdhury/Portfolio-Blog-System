@@ -1,15 +1,10 @@
-4. Portfolio Blogging System
-   Type: Blogging Website
-   Description:
-   • It allows a user to write blogs in different categories of his/her field of interests.
-   • Anybody can read those blogs, like, share and comment on every blog posts.
-   Development Tools: Laravel, PHP, MySQL, JQuery, JS, HTML and CSS.
-     <h3>Portfolio Blogging System</h3>
-     Type: Blogging Website <br>
-     Description:<br>
-     • It allows a user to write blogs in different categories of his/her field of interests.<br>
-     • Anybody can read those blogs, like, share and comment on every blog posts.<br>
-     Development Tools: Laravel, PHP, MySQL, JQuery, JS, HTML and CSS.<br>
+# Portfolio Blogging System
+
+Type: Blogging Website <br>
+Description:<br>
+• It allows a user to write blogs in different categories of his/her field of interests.<br>
+• Anybody can read those blogs, like, share and comment on every blog posts.<br>
+Development Tools: Laravel, PHP, MySQL, JQuery, JS, HTML and CSS.<br>
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
